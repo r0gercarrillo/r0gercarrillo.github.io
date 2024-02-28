@@ -704,8 +704,8 @@ svg {
   background-size: contain;
 }
 
-.contactdiv-card-item.instagram {
-  background-image: url("images/Instagram.png");
+.contactdiv-card-item.email {
+  background-image: url("images/Gmail.png");
 }
 
 .contactdiv-card-item.linkedin {
